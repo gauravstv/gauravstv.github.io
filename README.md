@@ -1,31 +1,17 @@
-# gauravstv.github.io
-
-
-
 <!DOCTYPE html>
 <html>
   <head>
     <title>Gaurav Srivastav</title>
     <style>
-      img {
-        width: 200px;
-        border-radius: 100px;
-        float: left;
-        margin-right: 50px;
-      }
-
       p {
         font-weight: bold;
-        
+        font-size: x-large;        
       }
     </style>
   </head>
 
   <body>
-      
-    <img src="welcome-page-blog-header.jpg" alt="loading...." />
-
-    <p>This is Gaurav Srivastav</p>
-    <p>M.tech in ECE IIITD</p>
+    <p>Hello This is Gaurav Srivastav</p>
+    <p>Content will be uploaded soon....</p>
   </body>
-</html
+</html>
