@@ -1,5 +1,7 @@
 # gauravstv.github.io
 
+
+
 <!DOCTYPE html>
 <html>
   <head>
@@ -21,7 +23,7 @@
 
   <body>
       
-    <img src="images/welcome-page-blog-header.jpg" alt="loading...." />
+    <img src="welcome-page-blog-header.jpg" alt="loading...." />
 
     <p>This is Gaurav Srivastav</p>
     <p>M.tech in ECE IIITD</p>
